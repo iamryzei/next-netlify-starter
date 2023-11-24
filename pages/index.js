@@ -85,7 +85,7 @@ export default function Home() {
           </p>
 
           <h3>Contact Us</h3>
-          <p>If you have any questions or concerns about our Privacy Policy, please contact us at [your contact email].</p>
+          <p>If you have any questions or concerns about our Privacy Policy, please contact us at watchify25@gmail.com.</p>
         </div>
       </main>
       <Footer />
